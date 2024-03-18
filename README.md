@@ -23,3 +23,13 @@ Hi, I'm Shreyas T<br>Verification Engineer<br>
 [![](https://visitcount.itsvg.in/api?id=shreyast&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/shreyast27/shreyast27/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/M9EkLmoXO60AAAAC/hello-friend-hi.gif"  />
+</div>
+
+###
