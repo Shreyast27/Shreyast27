@@ -10,7 +10,7 @@ begin
 end
 endfunction
 </code></pre>
-
+###
 
 
 ## 🌐 Socials:
@@ -33,7 +33,9 @@ endfunction
 
 [![](https://visitcount.itsvg.in/api?id=shreyast&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
+###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
 
 <img src="https://raw.githubusercontent.com/shreyast27/shreyast27/output/snake.svg" alt="Snake animation" />
 
