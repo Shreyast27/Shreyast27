@@ -1,11 +1,17 @@
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/nB1fpcfcaKkAAAAC/hh.gif"  />
-</div>
+# 💫 About Me:
+
+<img align="right" height="150" src="https://media1.tenor.com/m/nB1fpcfcaKkAAAAC/hh.gif" />
 
 ###
-# 💫 About Me:
-Hi, I'm Shreyas T<br>Verification Engineer<br>
 
+<pre><code>
+function void print_my_info;
+begin
+    $display("Hi, I'm Shreyas T");
+    $display("Verification Engineer");
+end
+endfunction
+</code></pre>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SHREYAST) 
