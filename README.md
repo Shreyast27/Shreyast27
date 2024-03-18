@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img align="right" height="150" src="https://media1.tenor.com/m/nB1fpcfcaKkAAAAC/hh.gif" />
+<img align="right" height="200" src="https://media1.tenor.com/m/nB1fpcfcaKkAAAAC/hh.gif" />
 
 ###
 <pre><code>function void print_my_info;
