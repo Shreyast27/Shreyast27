@@ -2,11 +2,19 @@
 
 <img align="right" height="200" src="https://media1.tenor.com/m/nB1fpcfcaKkAAAAC/hh.gif" />
 
+
+
+
 ###
-<pre><code>function void print_my_info;
+
+
+<pre><code>function void print_my_info; 
+    
     $display("Hi, I'm Shreyas T");
-    $display("Verification Engineer");
+    $display("Verification Engineer");  
+    
 endfunction
+
 </code></pre>
 ###
 
