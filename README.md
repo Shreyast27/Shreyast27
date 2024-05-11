@@ -4,10 +4,8 @@
 
 ###
 <pre><code>function void print_my_info;
-begin
     $display("Hi, I'm Shreyas T");
     $display("Verification Engineer");
-end
 endfunction
 </code></pre>
 ###
